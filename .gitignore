@@ -1,0 +1,22 @@
+# Local configuration and credentials
+/config.php
+/config_override.php
+/.env
+/auth.json
+
+# Generated cache and logs
+/cache/
+/install.log
+/suitecrm.log
+*.log
+
+# Uploaded files and local user data
+/upload/*
+
+# Local IDE settings
+/.vscode/
+/.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
