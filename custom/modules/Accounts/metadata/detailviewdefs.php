@@ -189,6 +189,12 @@ array (
             'name' => 'support_tier_c',
             'studio' => 'visible',
             'label' => 'LBL_SUPPORT_TIER',
+            'name' => 'created_by_name',
+            'label' => 'LBL_CREATED',
+          ),
+          1 => 
+          array (
+            'name' => 'contacts_accounts_1_name',
           ),
         ),
       ),

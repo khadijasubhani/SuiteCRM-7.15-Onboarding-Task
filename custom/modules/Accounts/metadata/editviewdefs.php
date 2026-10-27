@@ -148,6 +148,22 @@ array (
             'label' => 'LBL_SUPPORT_TIER',
           ),
           1 => '',
+            'name' => 'sic_code',
+            'comment' => 'SIC code of the account',
+            'label' => 'LBL_SIC_CODE',
+          ),
+        ),
+        7 => 
+        array (
+          0 => 
+          array (
+            'name' => 'created_by_name',
+            'label' => 'LBL_CREATED',
+          ),
+          1 => 
+          array (
+            'name' => 'contacts_accounts_1_name',
+          ),
         ),
       ),
       'LBL_PANEL_ADVANCED' => 
@@ -172,7 +188,6 @@ array (
         ),
       ),
     ),
-  ),
-);
+  );
 ;
 ?>
