@@ -186,6 +186,18 @@ array (
         array (
           0 => 
           array (
+            'name' => 'created_by_name',
+            'label' => 'LBL_CREATED',
+          ),
+          1 => 
+          array (
+            'name' => 'contacts_accounts_1_name',
+          ),
+        ),
+        9 => 
+        array (
+          0 => 
+          array (
             'name' => 'support_tier_c',
             'studio' => 'visible',
             'label' => 'LBL_SUPPORT_TIER',
